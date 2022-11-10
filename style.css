@@ -17,7 +17,7 @@ body {
     height: 10vh;
     position: fixed;
     top: 0;
-    background-color: #00345b;
+    background-color: #002040;
     padding: 20px 0px;
     display: flex;
     width: 100%;
@@ -83,11 +83,11 @@ a {
 .home {
     /* text-decoration: underline; */
     /* color: yellowgreen; */
-    border-bottom: 3px solid yellowgreen;
+    border-bottom: 3px solid #f27900;
 }
 
 a:hover {
-    border-bottom: 3px solid yellowgreen;
+    border-bottom: 3px solid #f27900;
     transition: 0.3s ease-in;
 }
 
@@ -121,7 +121,7 @@ a:hover {
 
 .colorOfNews {
     text-align: center;
-    background-color: #00345b;
+    background-color: #002040;
     width: 30%;
     color: white;
 }
@@ -136,7 +136,7 @@ a:hover {
 
 @media(max-width:1000px) {
     .nav-bar {
-        background-color: #00345b;
+        background-color: #002040;
         padding: 20px 0px;
         display: flex;
         width: 100%;
@@ -169,7 +169,7 @@ a:hover {
         left: 0;
         width: 450px;
         height: 100%;
-        background: #00345b;
+        background: #002040;
         transform: translate(-100%);
     }
     .sidebar-toggle {
